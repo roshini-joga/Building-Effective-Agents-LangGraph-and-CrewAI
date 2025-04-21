@@ -17,4 +17,4 @@ This repository contains two Google Colab notebooks demonstrating agent design p
 
  [Colab Notebook](https://colab.research.google.com/drive/1_3O7mYplqbdX39HrkqYWbOusktNu7kjt)
  
- [Demo Link](https://www.youtube.com/watch?v=TwSDe7ydpTg)
+ [Demo Link](https://youtu.be/qkizM1waZP4)
